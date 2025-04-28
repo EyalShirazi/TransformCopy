@@ -7,4 +7,4 @@ If you want to installed the build version for nuke12, copy the file from build/
 The tool will not be visable inside of nuke. one way to call it is by pressing "X" and type "TransformCopy" and nuke will place a new node. 
 another way is to load it on nuke startup using init.py. 
 
-<img src="https://github.com/EyalShirazi/Nuke/blob/main/Plugins/TransformCopy/demo/TransformCopy_example01.jpg"/>
+<img src="https://github.com/EyalShirazi/TransformCopy/tree/main/images/TransformCopy_example01.jpg"/>
